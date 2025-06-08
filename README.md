@@ -141,30 +141,4 @@ Here's a glimpse of the technologies I'm familiar with or actively learning:
 
 ---
 
-### 📊 My GitHub Stats:
-
-<p align="center">
-  <a href="https://github.com/Rajat-malhotra0">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rajat-malhotra0&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rajat Malhotra's GitHub Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/Rajat-malhotra0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat-malhotra0&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
-  </a>
-  <br/>
-  <!-- Optional: Streak Stats -->
-  <a href="https://github.com/Rajat-malhotra0">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajat-malhotra0&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
-### ✨ Fun Fact:
-
-I get a real thrill from seeing code translate into tangible actions, whether it's a website coming alive or an LED blinking on an ESP32 for the first time!
-*(Or add a more personal tech-related fun fact about yourself!)*
-
----
-
 Thanks for stopping by! Let's connect and build something amazing.
